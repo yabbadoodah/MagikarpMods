@@ -1,0 +1,5 @@
+mods/data/og/og-hard.json
+mods/songs/og/Voices.ogg
+mods/songs/og/Inst.ogg
+mods/songs/og/voices.ogg
+mods/songs/og/inst.ogg
