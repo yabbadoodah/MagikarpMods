@@ -1,0 +1,5 @@
+mods/data/decycle/decycle.json
+mods/songs/decycle/Voices.ogg
+mods/songs/decycle/Inst.ogg
+mods/songs/decycle/voices.ogg
+mods/songs/decycle/inst.ogg
