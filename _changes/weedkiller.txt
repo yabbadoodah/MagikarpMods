@@ -1,0 +1,6 @@
+mods/data/weedkiller/weedkiller-hard.json
+mods/data/weedkiller/weedkiller.json
+mods/songs/weedkiller/Voices.ogg
+mods/songs/weedkiller/Inst.ogg
+mods/songs/weedkiller/voices.ogg
+mods/songs/weedkiller/inst.ogg
